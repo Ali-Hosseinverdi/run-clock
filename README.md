@@ -1,9 +1,8 @@
 # run-clock
 
-<div style="text-align: center">
-    <a href="https://github.com/Ali-Hosseinverdi/run-clock/blob/main/icon/1.png">
-    <img src="https://github.com/Ali-Hosseinverdi/run-clock/blob/main/icon/1.png"/></a>
-</div>
+<p align="center">
+  <img src="https://github.com/Ali-Hosseinverdi/run-clock/blob/main/icon/1.png" width="400"/>
+</p>
 
 With this little library you can set time for running your code.
 
