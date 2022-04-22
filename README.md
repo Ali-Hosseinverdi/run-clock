@@ -15,7 +15,7 @@ This function takes 3 arguments in string type:
 2. minute
 3. second
 
-For example, we have a script that we want to run at 11:30:00 :
+For example, we have a script that we want to run at *11:30:00* :
 
 ``` python
 from runclock import run_at
@@ -24,7 +24,7 @@ run_at('11','30','00')
 print('time to run !')
 ```
 
-And at 11:30:00 , it will print the text.
+And at *11:30:00* , it will print the text.
 
 <h4>remember to use '00' instead of '0' or '05' instead of '5'</h4>
   
@@ -34,14 +34,14 @@ The defaule value for minute and second is '00' , so you can skip giving minute 
 run_at('11')
 print('Hi')
 ```
-It will print the text at 11:00:00
+It will print the text at *11:00:00*
 
 or
 
 ``` python
 run_at('11', '30')
 ```
-It will print the text at 11:30:00
+It will print the text at *11:30:00*
 
 ## Installation:
 You can install with pip:
