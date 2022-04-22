@@ -7,7 +7,7 @@
 With this little library you can set time for running your code.
 
 ## Usage:
-<h3>run_at:</h3>
+<h3>run_at():</h3>
   
 This function takes 3 arguments in string type:
   
