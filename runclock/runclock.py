@@ -1,7 +1,7 @@
 from time import sleep
 from time import ctime
 
-def run_at(hour: str,minute: str,second: str) -> None:
+def run_at(hour:str, minute:str = '00', second:str = '00') -> None:
     if type(hour) != str or type(minute) != str or type(second) != str:
         raise TypeError('Function takes string but integer given')
 
