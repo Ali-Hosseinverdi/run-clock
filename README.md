@@ -46,7 +46,7 @@ It will print the text at 11:30:00
 ## Installation:
 You can install with pip:
 ```
-pip install runclock
+pip3 install runclock
 ```
 
 or install from source:
