@@ -28,7 +28,7 @@ And at 11:30:00 , it will print the text.
 
 <h4>remember to use '00' instead of '0' or '05' instead of '5'</h4>
   
-The defaule value for minute and second is '00' , so you can don't give minute or second argument:
+The defaule value for minute and second is '00' , so you can skip giving minute or second argument:
   
 ``` python
 run_at('11')
